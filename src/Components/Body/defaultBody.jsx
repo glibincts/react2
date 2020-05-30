@@ -20,7 +20,7 @@ class DefaultBody extends Component {
                     </div>
                 </div>
                 <div className="row bg-white" id='row2'>
-                    <h3>Row 2</h3>
+                    <h3>Row 44</h3>
                 </div>
             </div>
          );
