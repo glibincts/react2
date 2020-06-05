@@ -56,20 +56,42 @@ code {
 }
 
 #row1{
-  height: inherit;
+  height: inherit; 
+  background-image: url(../src/Components/images/nature.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto; 
+  min-height: 23rem; 
 }
+
+#row2{
+  min-height: 10rem;
+  margin: 15px;
+}
+
+.marRow{
+  padding-left: 4rem;
+}
+
+.colColor{
+  border-bottom: solid;
+  border-radius: 2rem;
+}
+
 
 #container1{
   min-height: 100%;
   color: white !important; 
-  padding: 1rem;
+  padding-left: 0% !important;
+  padding-right: 0% !important;  
+
 }
 
 
 #footer{
   color: white;
   /* height: 14rem;  */
-  position: fixed; 
+  position: relative; 
   left: 0;
   bottom: 0; 
 

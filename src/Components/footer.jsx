@@ -6,7 +6,7 @@ class Footer extends Component {
   render() {
     return (
       <div className="footer container-fluid" id='footer'>
-         <div className="row p-5" id='footer1'>
+         <div className="row p-2" id='footer1'>
             <div className="col-sm-4">
               <div className="nav-header"><span>#Links</span></div>
                 <div className="nav-content">
