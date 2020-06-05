@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react2/static/css/main.1089bf55.chunk.css",
+    "main.js": "/react2/static/js/main.e29e4eaf.chunk.js",
+    "main.js.map": "/react2/static/js/main.e29e4eaf.chunk.js.map",
+    "runtime-main.js": "/react2/static/js/runtime-main.f4affbdd.js",
+    "runtime-main.js.map": "/react2/static/js/runtime-main.f4affbdd.js.map",
+    "static/css/2.74189dbb.chunk.css": "/react2/static/css/2.74189dbb.chunk.css",
+    "static/js/2.f84f1021.chunk.js": "/react2/static/js/2.f84f1021.chunk.js",
+    "static/js/2.f84f1021.chunk.js.map": "/react2/static/js/2.f84f1021.chunk.js.map",
+    "index.html": "/react2/index.html",
+    "precache-manifest.e489e7c3658dfbcbd5c000da6b7bed48.js": "/react2/precache-manifest.e489e7c3658dfbcbd5c000da6b7bed48.js",
+    "service-worker.js": "/react2/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/react2/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.1089bf55.chunk.css.map": "/react2/static/css/main.1089bf55.chunk.css.map",
+    "static/js/2.f84f1021.chunk.js.LICENSE.txt": "/react2/static/js/2.f84f1021.chunk.js.LICENSE.txt",
+    "static/media/ThinkPositive.jpg": "/react2/static/media/ThinkPositive.d9b3a432.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4affbdd.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.f84f1021.chunk.js",
+    "static/css/main.1089bf55.chunk.css",
+    "static/js/main.e29e4eaf.chunk.js"
+  ]
+}
