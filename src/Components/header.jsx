@@ -8,7 +8,7 @@ class Header extends Component {
     return (
       <div className="header">
         <nav className="navbar navbar-expand-lg navbar-light">
-          <a className="nav-brand" href="/">
+          <a className="nav-brand" href="/react2">
             TheWay
           </a>
           <button
@@ -22,7 +22,7 @@ class Header extends Component {
           <div className="collapse navbar-collapse" id="navbar">
             <ul className="nav navbar-nav ml-auto navbar-right">
               <li className="nav-item active">
-                <a className="nav-link" href="/">
+                <a className="nav-link" href="/react2">
                   Home
                 </a>
               </li>
