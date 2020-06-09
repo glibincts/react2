@@ -11,7 +11,7 @@ class Body extends Component {
     return (
       <Router>
         <div className="container-fluid" id='container1'>
-          <Route exact path="/react2" component={DefaultBody} />
+          <Route path="/react2" component={DefaultBody} />
           <Route path="/services" component={Services} />
         </div>
       </Router>
