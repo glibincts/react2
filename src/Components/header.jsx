@@ -22,7 +22,7 @@ class Header extends Component {
           <div className="collapse navbar-collapse" id="navbar">
             <ul className="nav navbar-nav ml-auto navbar-right">
               <li className="nav-item active">
-                <a className="nav-link" href="/react2">
+                <a className="nav-link" href="/">
                   Home
                 </a>
               </li>

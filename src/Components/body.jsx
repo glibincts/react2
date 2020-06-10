@@ -9,14 +9,16 @@ class Body extends Component {
   state = {};
   render() {
     return (
-      <Router>
-        <Switch>  
-          <div className="container-fluid" id='container1'>
-            <Route exact path="/react2" component={DefaultBody} />
-            <Route exact path="/services" component={Services} />
-          </div>
-        </Switch>
-      </Router>
+      <div className="container-fluid" id='container1'>
+        <Router>
+          <Switch>  
+
+              <Route exact path="/" component={DefaultBody} />
+              <Route exact path="/services" component={Services} />
+
+          </Switch>
+        </Router>
+      </div>
     );
   }
 }
