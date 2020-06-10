@@ -9,7 +9,7 @@ class Header extends Component {
       <div className="header">
         <nav className="navbar navbar-expand-lg navbar-light">
           <a className="nav-brand" href="/react2">
-            TheWay
+            Libin George
           </a>
           <button
             className="navbar-toggler"
